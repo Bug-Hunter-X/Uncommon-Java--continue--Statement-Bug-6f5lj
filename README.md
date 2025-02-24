@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug in Java involving the use of the `continue` statement within a `while` loop and a post-increment operator. The code produces an unexpected output because of how the loop counter is updated in combination with the `continue` statement. The solution file provides the corrected code with an explanation of the fix. 
